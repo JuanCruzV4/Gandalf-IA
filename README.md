@@ -20,7 +20,7 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado lo siguiente:
    * Debes tener descargado el modelo Qwen 2.5. Puedes hacerlo corriendo en tu terminal:
 ```bash
      ollama run qwen2.5
-     ```
+```
 3. **Clave de API de Google Gemini** (Google AI Studio).
 
 ## 🚀 Instalación y Configuración
